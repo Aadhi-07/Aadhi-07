@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aadhi</h1>
-<h3 align="center">AI Developer | Full Stack Engineer | Tech Enthusiast</h3>
+<h3 align="center">AI & ML Developer | Software Engineer | Tech Enthusiast</h3>
 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadyyyy.07)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadhi-j-8a0671292)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32113526)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadhithiyajayaraman@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadyyyy.07)
 
 ---
 
@@ -65,10 +66,6 @@
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Aadhi-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Aadhi-07&icon=7&color=0)](https://visitcount.itsvg.in)
 
 ---
 
