@@ -69,7 +69,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadhi-07/Aadhi-07/output/github-snake-dark.svg">
